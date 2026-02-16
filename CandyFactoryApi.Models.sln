@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyFactoryApi.Models", "CandyFactoryApi.Models\CandyFactoryApi.Models.csproj", "{E0BEEC8C-95AC-45F3-99EE-F19D95AC4BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BEEC8C-95AC-45F3-99EE-F19D95AC4BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BEEC8C-95AC-45F3-99EE-F19D95AC4BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BEEC8C-95AC-45F3-99EE-F19D95AC4BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BEEC8C-95AC-45F3-99EE-F19D95AC4BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D3F08D-E45C-4E9D-A099-CE5A799B6E02}
+	EndGlobalSection
+EndGlobal
